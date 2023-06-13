@@ -1,0 +1,15 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.btn{
+    height: 30px;
+    border:1px solid yellow;
+    background-color: blueviolet;
+    margin-left: 60px;
+    width: 150px;
+    border-radius: 5px;
+    color: white;
+}
